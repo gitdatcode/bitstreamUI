@@ -10,3 +10,8 @@
 // shouldn't get overridden by anything
 // normally this file should be empty
 @import 'ugly';
+
+body {
+	border-radius: 2px;
+	box-shadow: 5px 5px 2px $dc-black;
+}

@@ -8,6 +8,50 @@ $map--color-global: (
   dc-purple: #9E00FF
 );
 
+$map--color-greys: (
+  grey-9: #000000,
+  grey-8: #565656,
+  grey-7: #7F7E7E,
+  grey-6: #9A9A9A,
+  grey-5: #B4B4B4,
+  grey-4: #C7C7C7,
+  grey-3: #D9D8D8,
+  grey-2: #E3E3E3,
+  grey-1: #ECECEC,
+  grey-0: #F4F4F4
+);
+
+$map--color-green-accents: (
+  green-6: #095131,
+  green-5: #0F8C55,
+  green-4: #0DBD70,
+  green-3: #0CD47C,
+  green-2: #08e983,
+  green-1: #51fbb0,
+  green-0: #b2ffdd
+);
+
+$map--color-red-accents: (
+  red-6: #750129,
+  red-5: #b80040,
+  red-4: #d9004b,
+  red-3: #ef0053,
+  red-2: #FF4787,
+  red-1: #FA79A6,
+  red-0: #FFB2CD
+);
+
+$map--color-yellow-accents: (
+  yellow-6: #8F7800,
+  yellow-5: #C3A401,
+  yellow-4: #ECC701,
+  yellow-3: #FFD703,
+  yellow-2: #FFE768,
+  yellow-1: #FDEFA7,
+  yellow-0: #FDF6CF
+);
+
+
 $map--color-instance: (
   instance: (
     key: value
