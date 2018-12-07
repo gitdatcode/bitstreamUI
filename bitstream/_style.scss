@@ -1,5 +1,4 @@
-// Saturn V Import
-@import 'third-party/saturnfive/stage-03';
+
 
 // Imports
 @import 'tools/tools.import';
@@ -9,12 +8,11 @@
 
 // Ugly.SCSS
 // don't know where to put something? 
-// SCSS here is one of the last imports
-// shouldn't get overridden by anything
-// normally this file should be empty
+// SCSS here is one of the last imports shouldn't get overridden by
+// anything normally this file should be empty. 
+
 @import 'ugly';
 
-body {
-	border-radius: 2px;
-	box-shadow: 5px 5px 2px $dc-black;
-}
+
+// Saturn V Import
+@import 'third-party/saturnfive/stage-03';
